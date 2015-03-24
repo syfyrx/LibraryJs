@@ -1,4 +1,4 @@
-clib
+LibraryJs
 ====
 
 custom js lib
