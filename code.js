@@ -1,4 +1,4 @@
-﻿function sha1(string) {
+function sha1(string) {
     var rotateLeft = function (lValue, iShiftBits) {
         return (lValue << iShiftBits) | (lValue >>> (32 - iShiftBits));
     }
